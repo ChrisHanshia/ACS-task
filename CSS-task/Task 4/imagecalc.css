@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(205, 203, 203);
+}
+.box{
+    height: 100px;
+   width: calc(10px + 100px);
+    border: 1px;
+    background-color: rgb(220, 92, 50);
+    margin: auto;
+    position: absolute;
+    top: 250px;
+    right: 70px;
+    padding: 10px;
+}

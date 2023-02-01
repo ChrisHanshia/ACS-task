@@ -1,0 +1,30 @@
+.container{
+    border: 5px;
+    width: 850px;
+    height: 430px;
+    position: relative;
+    padding: auto;
+    background-color: darkgrey;
+    margin: auto;
+}
+.box1{
+    width: 150px;
+    height: 150px;
+    border: 1px;
+    background-color:coral;
+    position: absolute;
+    top: 6%;
+    right: 2%;
+}
+.box2{
+    width: 670px;
+    height: 190px;
+    border: 1px;
+    padding: 10px;
+}
+.box3{
+    width: 790px;
+    height: 190px;
+    border: 1px;
+    padding: 10px;
+}

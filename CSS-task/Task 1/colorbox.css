@@ -1,0 +1,91 @@
+*{
+    background-color: #D3D3D3;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    width: 100%;
+}
+div{
+    margin: 5px;
+}
+.row1{
+    display: flex;
+    width: 100%;
+    min-height: 100px;
+}
+.red{
+    width: 25%;
+    background-color: #ff0000af;
+}
+.Inkblue{
+    width: 75%;
+    background-color: #140453;
+}
+.row2{
+    display: flex;
+    width: 100%;
+    min-height: 150px;
+}
+.yellow{
+    width: 100%;
+    background-color: rgba(189, 171, 9, 0.873);
+}
+.row3{
+    display: flex;
+    width: 100%;
+    min-height: 100px;
+}
+.green{
+    width: 35%;
+    background-color: rgb(34, 149, 5);
+}
+.purple{
+    width: 35%;
+    background-color: rgb(155, 7, 93);
+}
+.violet{
+    width: 35%;
+    background-color: rgb(86, 8, 117) ;
+}
+.row4{
+    display: flex;
+    width: 100%;
+    min-height: 120px;
+}
+.orange{
+    width: 60%;
+    background-color: rgb(244, 110, 8);
+}
+.yellow2{
+    width: 50%;
+    background-color: rgb(204, 255, 0);
+}
+.row5{
+    display: flex;
+    width: 100%;
+    min-height: 90px;
+}
+.green2{
+    width: 25%;
+    background-color: rgb(0, 128, 0);
+}
+.lightblue{
+    width: 25%;
+    background-color: rgb(4, 162, 141);
+}
+.brown{
+    width: 25%;
+    background-color: rgb(117, 8, 8);
+}
+.blue{
+    width: 25%;
+    background-color: rgb(77, 4, 160);                                              
+}
+.row6{
+     display: flex;
+     width: 100%;
+     min-height:70px;
+}
+.darkbrown{
+    width: 100%;
+    background-color: rgb(22, 2, 2);
+}
