@@ -1,0 +1,190 @@
+font-face{
+    font-family: 'Courier New', Courier, monospace;
+}
+* {
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("img.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    font-family: "Andika", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    color: rgb(246, 242, 242);
+    font-size: 40px;
+    letter-spacing: 8px;
+    font-family: "AndikaIta", sans-serif;
+    font-weight: 100;
+    padding-top: 15px;
+    align-self: center;
+
+}
+
+.container {
+    width: 1400px;
+    height: 550px;
+    background-color: rgba(0, 154, 154, 0.5);
+    margin-top: 15px;
+    border: 1px solid #fff;
+    justify-content: space-around;
+
+}
+
+form {
+    font-size: 1em;
+    margin: 35px;
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"] {
+    background-color: rgba(3, 71, 71, 0.5);
+    border: 1px solid white;
+    width: 300px;
+    height: 30px;
+    color: white;
+    font-size: 1em;
+    margin: 10px;
+}
+
+::placeholder {
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    font-size: 1rem;
+}
+
+label {
+    color: white;
+    text-transform: uppercase;
+    padding: 5px;
+}
+
+input[type="text"].no {
+    width: 80px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+input[type="text"].address,
+input[type="text"].your {
+    width: 1105px;
+    margin-left: 30px;
+}
+
+input[type="button"].place {
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    background-color: rgba(14, 119, 179, 0.716);
+    cursor: pointer;
+    margin-left: 207px;
+    color: #fff;
+}
+
+input[type="button"].reset {
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgba(255, 162, 0, 0.656);
+    cursor: pointer;
+    margin-right: 500px;
+    color: #fff;
+}
+
+.option {
+    width: 300px;
+    height: 30px;
+    background-color: rgba(3, 71, 71, 0.5);
+    border: 1px solid white;
+    color: rgba(255, 255, 255, 0.744);
+    font-size: 1em;
+}
+
+input[type="text"].your {
+    margin-left: 75px;
+}
+
+input[type="text"].address {
+    margin-left: 60px;
+}
+
+input[type="text"].no {
+    margin-left: 67px;
+}
+
+input[type="text"].email {
+    margin-left: 69.5px;
+}
+
+input[type="text"].first {
+    margin-left: 101px;
+}
+
+input[type="text"].city {
+    margin-left: 161.5px;
+}
+
+input[type="text"].zip {
+    margin-left: 122.5px;
+}
+
+span {
+    position: absolute;
+    left: 265px;
+
+}
+
+.final,
+.before,
+.one {
+    display: flex;
+
+    justify-content: space-between;
+}
+
+input[type="text"].last {
+    margin-left: 85px;
+
+}
+
+select.option {
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+input[type="text"].state {
+    margin-left: 40px;
+
+}
+
+span .clr1,
+.clr2,
+.clr3 {
+    position: absolute;
+    left: 1092px;
+
+}
+
+.clr1 {
+    position: relative;
+    left: 60px;
+}
+
+h5 {
+    color: rgba(255, 255, 255, 0.668);
+    margin-top: 50px;
+}
+
+a {
+    color: red;
+
+}
