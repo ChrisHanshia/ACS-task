@@ -1,0 +1,13 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+.yellow{
+    background-color:rgb(244, 244, 168);
+}
+.green{
+    background-color: rgb(132, 238, 129);
+}
+.violet{
+    background-color: rgba(230, 230, 250, 0.647);
+}
