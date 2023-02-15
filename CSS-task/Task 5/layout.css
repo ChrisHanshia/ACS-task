@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    overflow: hidden;
+}
+.label{
+    padding: 100px 500px;
+}
+h1{
+    color:white;
+    width:200px;
+    font-weight:bold;
+    font-size:20px;
+    margin:0 auto;
+    text-align:center;
+    padding:10px 0;
+    letter-spacing: 10px;
+}
+.divider{
+    margin:1px 0;
+}
+.large{
+    height:20px;
+    background-color: rgb(16, 234, 194);
+    align-self:center;
+}
